@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XD Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        .xd-text {
+            font-size: 48px;
+            color: #ff69b4; /* Różowy kolor */
+        }
+    </style>
+</head>
+<body>
+    <h1>Witaj na stronie XD</h1>
+    <div class="xd-text">xd</div>
+</body>
+</html>
